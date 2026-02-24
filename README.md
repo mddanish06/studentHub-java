@@ -1,12 +1,12 @@
-# Student Management System
+# StudentHub
 
-This document provides full instructions to run the Spring Boot + MySQL Student Management System, including environment setup, build steps, API usage, and troubleshooting.
+This document provides full instructions to run the Spring Boot + MySQL, including environment setup, build steps, API usage, and troubleshooting.
 
 ---
 
 ## 🚀 Project Overview
 
-A Student Management System built using:
+A StudentHub built using:
 
 * **Spring Boot** (REST API)
 * **MySQL Database**
